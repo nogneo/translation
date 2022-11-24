@@ -174,7 +174,7 @@ class _MyHomePageState extends State<MyHomePage> {
         onPressed:
             // _google,
             // _deepl,
-            //_fetchApiResuts, //みんなの自動翻訳
+            // _fetchApiResuts, //みんなの自動翻訳
             _microsoft,
         tooltip: 'Translation',
         child: const Icon(Icons.translate),
